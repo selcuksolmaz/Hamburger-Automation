@@ -1,0 +1,226 @@
+C:\Users\SELÇUK\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form5.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form6.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form7.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form8.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form9.resources
+C:\Users\SELÇUK\source\repos\Proje\Proje\obj\Debug\Proje.Form10.resources
+C:\Users\mert ali\Desktop\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\mert ali\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\mert ali\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.soslar.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\mert ali\Desktop\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.girişpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.soslar.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menüicecek.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menüicecek2.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.admin.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.personelislemleri.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.adminpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.PersonelKaydı.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.psil.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.menütatlı.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.fiyat.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.stok.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.admin.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.dg.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.fiyat.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.girişpaneli.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menüicecek.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menüicecek2.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menütatlı.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.personelislemleri.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.PersonelKaydı.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.psil.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.soslar.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.adminpaneli.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.stok.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.admin.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.fiyat.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.girişpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menüicecek.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menüicecek2.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menütatlı.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.personelislemleri.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.PersonelKaydı.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.psil.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.adminpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.stok.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.admin.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.fiyat.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.girişpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menüicecek.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menüicecek2.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menütatlı.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.personelislemleri.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.PersonelKaydı.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.psil.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.adminpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.stok.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje1\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.admin.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.fiyat.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.girişpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menüicecek.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menüicecek2.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menütatlı.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.personelislemleri.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.PersonelKaydı.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.psil.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.adminpaneli.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.stok.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Proje2\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.admin.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.anamenü.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.fiyat.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.girişpaneli.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menüboyut.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menüicecek.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menüicecek2.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menütatlı.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.personelislemleri.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.PersonelKaydı.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.psil.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menüler.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menüler2.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.menüler3.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.cocukmenü.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.adminpaneli.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.stok.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.yanürün.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.tatlılar.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.icecek.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.icecek2.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\SELÇUK\Desktop\Uni\Ödevler\Bm 102\Bm102 Proje\Proje Final\Proje\Proje\obj\Debug\Proje.pdb
